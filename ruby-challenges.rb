@@ -71,11 +71,11 @@ def palindrome string
     end    
 end    
 
-p palindrome palindrome_test_case1
-#output: 'Racecar is a palindrome'
+# p palindrome palindrome_test_case1
+# #output: 'Racecar is a palindrome'
 
-p palindrome palindrome_test_case2
-#output: 'LEARN is not a palindrome'
+# p palindrome palindrome_test_case2
+# #output: 'LEARN is not a palindrome'
 
-p palindrome palindrome_test_case3
-#output: 'Rotator is a palindrome'
+# p palindrome palindrome_test_case3
+# #output: 'Rotator is a palindrome'
